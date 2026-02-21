@@ -10,5 +10,4 @@
 # tugas ini bertujuan untuk memahami dan mengimplementasikan konsep dasar struktur kontrol dalam 
 # pemrograman. Mahasiswa di minta untuk membuat dan menyiapkan environment pemrograman yang akan 
 # digunakan, kemudian menerapkan logika percabangan (conditional statement), perulangan (iterative 
-# statement), serta perintah pengendali alur program (transfer statement) dalam bentuk program 
-# sederhana
+# statement), serta perintah pengendali alur program (transfer statement) dalam bentuk program sederhana
